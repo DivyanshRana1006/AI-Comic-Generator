@@ -25,10 +25,10 @@ Turn your stories into stunning AI-generated comics! This project uses **GPT-2 f
 ## 🖼️ Screenshots
 Below are some images showcasing the project:
 
-![Comic Generator UI]  
+Comic Generator UI 
 *User-friendly interface for inputting stories and generating comics.*  
 
-![Generated Comic Panels] 
+Generated Comic Panels 
 *AI-generated comic strip with speech bubbles.*  
 
 ## 🏃‍♂️ Run Locally
